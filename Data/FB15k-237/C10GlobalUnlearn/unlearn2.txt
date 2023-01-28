@@ -1,0 +1,8 @@
+/m/070mff	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/05l2z4
+/m/04h1rz	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/02cg7g
+/m/01grq1	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/01grrf
+/m/02glc4	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/03ww_x
+/m/02bn_p	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/02bp37
+/m/05l2z4	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/03tcbx
+/m/05l2z4	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/02gkzs
+/m/01gsry	/government/legislative_session/members./government/government_position_held/legislative_sessions	/m/01grpc

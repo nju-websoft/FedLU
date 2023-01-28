@@ -1,0 +1,13 @@
+/m/034_7s	/government/legislative_session/members./government/government_position_held/district_represented	/m/059ts
+/m/01gvxh	/government/legislative_session/members./government/government_position_held/district_represented	/m/06nrt
+/m/01gtbb	/government/legislative_session/members./government/government_position_held/district_represented	/m/05kkh
+/m/01grp0	/government/legislative_session/members./government/government_position_held/district_represented	/m/05tbn
+/m/021sv1	/government/politician/government_positions_held./government/government_position_held/legislative_sessions	/m/032ft5
+/m/01grpq	/government/legislative_session/members./government/government_position_held/district_represented	/m/026mj
+/m/01grq1	/government/legislative_session/members./government/government_position_held/district_represented	/m/059rby
+/m/077g7n	/government/legislative_session/members./government/government_position_held/district_represented	/m/059f4
+/m/024_vw	/government/politician/government_positions_held./government/government_position_held/legislative_sessions	/m/032ft5
+/m/01gtc0	/government/legislative_session/members./government/government_position_held/district_represented	/m/03v1s
+/m/070m6c	/government/legislative_session/members./government/government_position_held/district_represented	/m/05mph
+/m/01gstn	/government/legislative_session/members./government/government_position_held/district_represented	/m/05fjf
+/m/01gsvp	/government/legislative_session/members./government/government_position_held/district_represented	/m/04ly1

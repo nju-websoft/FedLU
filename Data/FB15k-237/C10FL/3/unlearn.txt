@@ -1,0 +1,15 @@
+/m/0l998	/olympics/olympic_games/sports	/m/096f8
+/m/0blfl	/olympics/olympic_games/sports	/m/06zgc
+/m/09n48	/user/jg/default_domain/olympic_games/sports	/m/03tmr
+/m/0sx92	/olympics/olympic_games/sports	/m/09_9n
+/m/01yfj	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/09n48
+/m/0lbbj	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lq67
+/m/06f41	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/06sks6
+/m/01f1jf	/olympics/olympic_games/sports	/m/09wz9
+/m/0l6ny	/user/jg/default_domain/olympic_games/sports	/m/018w8
+/m/0swff	/user/jg/default_domain/olympic_games/sports	/m/01z27
+/m/0l6mp	/olympics/olympic_games/sports	/m/02vx4
+/m/0swbd	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lpp7
+/m/0swff	/olympics/olympic_games/sports	/m/02_5h
+/m/03hr1p	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0l6ny
+/m/0l6mp	/user/jg/default_domain/olympic_games/sports	/m/071t0
