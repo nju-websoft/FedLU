@@ -1,0 +1,6 @@
+networkx==3.0
+numpy==1.23.0
+python_Levenshtein==0.20.9
+scikit_learn==1.2.1
+scipy==1.10.0
+torch==1.13.1
