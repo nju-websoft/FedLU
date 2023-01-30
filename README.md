@@ -36,7 +36,7 @@ We have set the same hyperparameters for all FL competitors for fair comparison.
 ## Citation
 If you find the repository helpful, please cite the following paper.
 ```bibtex
-@inproceedings{zhu2023heterogeneous,
+@inproceedings{FedLU,
   title = {Heterogeneous Knowledge Graph Embedding Learning and Unlearning},
   author = {Zhu, Xiangrong and 
             Li, Guangyao and 
